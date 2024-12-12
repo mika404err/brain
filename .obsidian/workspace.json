@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Indexes/CONFIG.md",
+                "file": "1 - Notas rápidas/Estrutura do conteúdo de redes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CONFIG"
+              "title": "Estrutura do conteúdo de redes"
             }
           }
         ]
@@ -137,24 +137,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Escopo de redes.md"
+                "file": "1 - Notas rápidas/Estrutura do conteúdo de redes.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Escopo de redes"
-            }
-          },
-          {
-            "id": "dceca111f88b1674",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Sumário de Estrutura do conteúdo de redes"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -167,15 +157,16 @@
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Abrir paleta de comandos": false
     }
   },
   "active": "4666f057731253aa",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-12-06 14.02.46.excalidraw.md",
     "1 - Notas rápidas/Estrutura do conteúdo de redes.md",
-    "3 - Indexes/CONFIG.md",
+    "Excalidraw",
     "5 - Notas principais/Escopo de redes.md",
+    "3 - Indexes/CONFIG.md",
     "2 - Tags/redes de computadores.md",
     "4 - Templates/Nota.md",
     "Escopo de rede.md",

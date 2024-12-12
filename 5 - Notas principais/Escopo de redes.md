@@ -1,7 +1,7 @@
 
 2024-12-05 14:28
 
-Status: #em_andamento
+Status: #em_andamento #iniciante
 
 Tags: [[redes de computadores]]
 
