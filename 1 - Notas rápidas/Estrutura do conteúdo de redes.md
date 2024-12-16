@@ -55,6 +55,21 @@ Protocolo Ethernet
 		Half Duplex
 		Full Duplex
 
+RFC
+	Status
+
+MTU
+	Path MTU
+	Path MTU Discovery
+
+ARP
+	Formato do pacote
+	Cache ARP
+	ARP Probe
+
+ICMP
+	Mensagens ICMP
+	Classes de Mensagens ICMP
 ### Hardware
 
 Cabo Par Trançado
