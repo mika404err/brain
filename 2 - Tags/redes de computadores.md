@@ -1,0 +1,5 @@
+[[Escopo de redes]]
+	[[WAN (Wide Area Network)]]
+	[[MAN (Metropolitan Area Network)]]
+	[[LAN (Local Area Network)]]
+	[[PAN (Personal Area Network)]]

@@ -1,7 +1,7 @@
 
 2024-12-05 14:28
 
-Status: #iniciante #finalizada 
+Status: #iniciante
 
 Tags: [[redes de computadores]]
 

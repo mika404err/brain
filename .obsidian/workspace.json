@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c20c79188232ad26",
+        "id": "e6d713c61b34e08e",
         "type": "tabs",
         "children": [
           {
-            "id": "7fc31d4a704ac1e3",
+            "id": "29721b0125158f33",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Tags/gerenciamento de riscos.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "gerenciamento de riscos"
+              "title": "Nova aba"
             }
           }
         ]
@@ -136,11 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2 - Tags/gerenciamento de riscos.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Sumário de gerenciamento de riscos"
+              "title": "Sumário"
             }
           }
         ],
@@ -161,22 +155,30 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7fc31d4a704ac1e3",
+  "active": "29721b0125158f33",
   "lastOpenFiles": [
-    "2 - Tags/cybersecurity.md",
-    "2 - Tags/gerenciamento de riscos.md",
-    "1 - Notas rápidas/Conteúdo de gerenciamento de riscos.md",
-    "1 - Notas rápidas/Estrutura do conteúdo de redes.md",
-    "2 - Tags/redes de computadores.md",
-    "5 - Notas principais/Escopo de redes.md",
-    "README.md",
-    "5 - Notas principais/LAN (Local Area Network).md",
-    "4 - Templates/Nota.md",
-    "3 - Indexes/CONFIG.md",
+    "5 - Notas principais/Segurança no Desenvolvimento de Software.md",
+    "5 - Notas principais/Comunicações e Segurança de Rede.md",
+    "5 - Notas principais/CISSP (Certified Information Systems Security Professional).md",
+    "5 - Notas principais/Arquitetura e Engenharia de Segurança.md",
+    "5 - Notas principais/Segurança de Ativos.md",
+    "5 - Notas principais/Segurança e Gestão de Riscos.md",
+    "5 - Notas principais/Operações de Segurança.md",
+    "5 - Notas principais/Avaliação de Segurança e Testes.md",
     "5 - Notas principais/WAN (Wide Area Network).md",
     "5 - Notas principais/PAN (Personal Area Network).md",
     "5 - Notas principais/MAN (Metropolitan Area Network).md",
-    "5 - Notas principais/Sem título.md",
+    "5 - Notas principais/LAN (Local Area Network).md",
+    "5 - Notas principais/Gestão de Identidade e Acesso.md",
+    "5 - Notas principais/Escopo de redes.md",
+    "2 - Tags/redes de computadores.md",
+    "2 - Tags/gerenciamento de riscos de segurança.md",
+    "2 - Tags/cybersecurity.md",
+    "1 - Notas rápidas/Conteúdo de gerenciamento de riscos.md",
+    "3 - Indexes/CONFIG.md",
+    "1 - Notas rápidas/Estrutura do conteúdo de redes.md",
+    "README.md",
+    "4 - Templates/Nota.md",
     "Excalidraw/Drawing 2024-12-06 14.02.46.excalidraw.md",
     "Excalidraw",
     "Escopo de rede.md",
