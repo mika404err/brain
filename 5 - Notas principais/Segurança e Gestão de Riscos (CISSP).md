@@ -6,7 +6,7 @@ Status: #iniciante
 Tags: [[cybersecurity]] [[gerenciamento de riscos de segurança]]
 
 
-# Segurança e Gestão de Riscos
+# Segurança e Gestão de Riscos (CISSP)
 #### (Security and Risk Management)
 
 O **Domínio 1 - Segurança e Gestão de Riscos** é fundamental para a segurança da informação, abrangendo estratégias para proteger os ativos organizacionais, mitigar riscos e garantir conformidade. Ele estabelece os objetivos e práticas para a gestão eficiente da segurança.

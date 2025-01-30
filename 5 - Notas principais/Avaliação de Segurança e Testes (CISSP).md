@@ -6,7 +6,7 @@ Status: #iniciante
 Tags: [[cybersecurity]] [[gerenciamento de riscos de segurança]]
 
 
-# Avaliação de Segurança e Testes
+# Avaliação de Segurança e Testes (CISSP)
 #### (Security Assessment and Testing)
 
 O **Domínio 6 - Avaliação e Testes de Segurança** é focado em verificar a eficácia dos controles de segurança implementados, identificar vulnerabilidades e assegurar a resiliência dos sistemas.

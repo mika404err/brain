@@ -6,7 +6,7 @@ Status: #iniciante
 Tags: [[cybersecurity]] [[gerenciamento de riscos de segurança]]
 
 
-# Operações de Segurança
+# Operações de Segurança (CISSP)
 #### (Security Operations)
 
 O **Domínio 7 - Operações de Segurança** é focado em conduzir investigações e implementar medidas preventivas para proteger os ativos e sistemas da organização.

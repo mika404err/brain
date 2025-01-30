@@ -6,7 +6,7 @@ Status: #iniciante
 Tags: [[cybersecurity]] [[gerenciamento de riscos de segurança]]
 
 
-# Segurança de Ativos
+# Segurança de Ativos (CISSP)
 #### (Asset Security)
 
 O **Domínio 2 - Segurança de Ativos** é focado na proteção de ativos digitais e físicos. Abrange práticas relacionadas ao armazenamento, manutenção, retenção e destruição de dados, além de definir controles baseados em sua classificação e valor para a organização.

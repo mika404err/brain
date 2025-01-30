@@ -6,7 +6,7 @@ Status: #iniciante
 Tags: [[cybersecurity]] [[gerenciamento de riscos de segurança]]
 
 
-# Gestão de Identidade e Acesso
+# Gestão de Identidade e Acesso (CISSP)
 #### (Identity and Access Management)
 
 O **Domínio 5 - Gerenciamento de Identidade e Acesso (IAM)** é focado em garantir que apenas indivíduos autorizados tenham acesso aos sistemas e dados corretos, no momento certo e pelas razões certas.

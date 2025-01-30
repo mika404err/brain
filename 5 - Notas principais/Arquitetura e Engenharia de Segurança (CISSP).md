@@ -6,7 +6,7 @@ Status: #iniciante
 Tags: [[cybersecurity]] [[gerenciamento de riscos de segurança]]
 
 
-# Arquitetura e Engenharia de Segurança
+# Arquitetura e Engenharia de Segurança (CISSP)
 #### (Security Architecture and Engineering)
 
 O **Domínio 3 - Arquitetura e Engenharia de Segurança** é focado em projetar e implementar sistemas seguros. Ele aborda princípios de segurança para proteger redes, sistemas e aplicativos.

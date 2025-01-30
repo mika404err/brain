@@ -6,7 +6,7 @@ Status: #iniciante
 Tags: [[cybersecurity]] [[gerenciamento de riscos de segurança]]
 
 
-# Segurança no Desenvolvimento de Software
+# Segurança no Desenvolvimento de Software (CISSP)
 #### (Software Development Security)
 
 O **Domínio 8 - Segurança no Desenvolvimento de Software** foca na integração de práticas de segurança em todas as fases do ciclo de vida do desenvolvimento de software (SDLC - Software Development Life Cycle).

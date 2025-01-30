@@ -6,7 +6,7 @@ Status: #iniciante
 Tags: [[cybersecurity]] [[gerenciamento de riscos de segurança]]
 
 
-# Comunicações e Segurança de Rede
+# Comunicações e Segurança de Rede (CISSP)
 #### (Communication and Network Security)
 
 O **Domínio 4 - Comunicação e Segurança de Rede** é focado em gerenciar e proteger redes físicas e comunicações sem fio. Ele aborda práticas de segurança para proteger dados em trânsito, gerenciar dispositivos de rede, e mitigar ameaças.
