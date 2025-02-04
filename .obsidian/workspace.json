@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e6d713c61b34e08e",
+        "id": "30d380997769e191",
         "type": "tabs",
         "children": [
           {
-            "id": "29721b0125158f33",
+            "id": "8afd62adffcfec98",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "5 - Notas principais/OWASP (Open Worldwide Application Security Project).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "OWASP (Open Worldwide Application Security Project)"
             }
           }
         ]
@@ -36,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -132,9 +137,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "5 - Notas principais/OWASP (Open Worldwide Application Security Project).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de OWASP (Open Worldwide Application Security Project)"
             }
           }
         ],
@@ -155,33 +165,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "29721b0125158f33",
+  "active": "8afd62adffcfec98",
   "lastOpenFiles": [
-    "5 - Notas principais/Segurança no Desenvolvimento de Software.md",
-    "5 - Notas principais/Comunicações e Segurança de Rede.md",
+    "5 - Notas principais/NIST (National Institute of Standards and Technology).md",
     "5 - Notas principais/CISSP (Certified Information Systems Security Professional).md",
-    "5 - Notas principais/Arquitetura e Engenharia de Segurança.md",
-    "5 - Notas principais/Segurança de Ativos.md",
-    "5 - Notas principais/Segurança e Gestão de Riscos.md",
-    "5 - Notas principais/Operações de Segurança.md",
-    "5 - Notas principais/Avaliação de Segurança e Testes.md",
-    "5 - Notas principais/WAN (Wide Area Network).md",
-    "5 - Notas principais/PAN (Personal Area Network).md",
+    "5 - Notas principais/Segurança no Desenvolvimento de Software (CISSP).md",
+    "5 - Notas principais/Operações de Segurança (CISSP).md",
+    "5 - Notas principais/Avaliação de Segurança e Testes (CISSP).md",
+    "5 - Notas principais/Gestão de Identidade e Acesso (CISSP).md",
+    "5 - Notas principais/Comunicações e Segurança de Rede (CISSP).md",
+    "5 - Notas principais/Arquitetura e Engenharia de Segurança (CISSP).md",
+    "5 - Notas principais/Segurança de Ativos (CISSP).md",
+    "5 - Notas principais/Segurança e Gestão de Riscos (CISSP).md",
+    "5 - Notas principais/Framework de Gerenciamento de Riscos (RMF) (NIST).md",
     "5 - Notas principais/MAN (Metropolitan Area Network).md",
     "5 - Notas principais/LAN (Local Area Network).md",
-    "5 - Notas principais/Gestão de Identidade e Acesso.md",
-    "5 - Notas principais/Escopo de redes.md",
+    "5 - Notas principais/Ameaças, Riscos e Vulnerabilidades.md",
+    "5 - Notas principais/OWASP (Open Worldwide Application Security Project).md",
+    "1 - Notas rápidas/Conteúdo de gerenciamento de riscos.md",
+    "Excalidraw/Drawing 2025-01-14 20.46.00.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-06 14.02.46.excalidraw.md",
+    "Excalidraw/Redes de Computadores",
+    "Excalidraw/Sem título.canvas",
+    "1 - Notas rápidas/Estrutura do conteúdo de redes.md",
     "2 - Tags/redes de computadores.md",
     "2 - Tags/gerenciamento de riscos de segurança.md",
     "2 - Tags/cybersecurity.md",
-    "1 - Notas rápidas/Conteúdo de gerenciamento de riscos.md",
+    "5 - Notas principais/WAN (Wide Area Network).md",
+    "5 - Notas principais/PAN (Personal Area Network).md",
+    "5 - Notas principais/Escopo de redes.md",
     "3 - Indexes/CONFIG.md",
-    "1 - Notas rápidas/Estrutura do conteúdo de redes.md",
-    "README.md",
-    "4 - Templates/Nota.md",
-    "Excalidraw/Drawing 2024-12-06 14.02.46.excalidraw.md",
     "Excalidraw",
-    "Escopo de rede.md",
     "5 - Notas principais",
     "4 - Templates",
     "3 - Indexes",
